@@ -57,3 +57,37 @@ let Stringconvert=String(somenum);
 console.log(Stringconvert);
 console.log(typeof Stringconvert);
 
+
+/*--------operation----------*/
+
+
+//all arthematic operation
+let str1="hello";
+let str2=" samee";
+let str3=str1+str2;
+// console.log(str3);
+
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log("1"+2+2);
+// console.log(1+2+"2");
+
+console.log(+true);
+console.log(+"");
+
+//++pre and  pos++ 
+//comparsion  opertaor 
+// console.log("2">1);//both are diff datatype
+// console.log("02">1);
+
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
+console.log(undefined<0);
+
+console.log("2"===2);//strict karta ha do not compare dif data type check karta same datatype h y nhi
+
+
+
+
+
